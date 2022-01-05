@@ -1,11 +1,27 @@
 body {
-  background-color: wheat;
+  background-color: aquamarine;
 }
 
 img {
   width: 2%;
 }
 
-ul {
-  list-style-type: square;
+li {
+  list-style-type: '♻️';
 }
+
+/* li:before { 
+  content: '\1F5FB'; 
+  margin-left: -20px; 
+  margin-right: 10px; 
+}  */
+
+/* ul { 
+  margin-left: 40px; 
+  list-style:none; 
+} 
+
+li { 
+  padding: .3em 0 1em 40px;
+  background-image: url("https://i.pinimg.com/originals/6c/67/2d/6c672d2ce1f059a41c69671f476bc33b.gif") no-repeat; 
+}  */
